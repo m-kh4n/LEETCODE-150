@@ -143,7 +143,7 @@ class Solution:
 		# max profit change when the values in new window manage to give a better deal
 		
             r = r + 1
-		# pointer incrementation
+	# pointer incrementation
 
         return max_prof
 ```
