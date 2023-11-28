@@ -33,7 +33,7 @@ class Solution:
 
 Thought process :
 
-![rainwatertrap.png]([42%20Trapping%20Rain%20Water%20d432a6f378b2441a92099d05aa502c5b/rainwatertrap.png](https://www.notion.so/wazir/42-Trapping-Rain-Water-d432a6f378b2441a92099d05aa502c5b?pvs=4#90c06a3ec5ff4c2ab3fb8fd498801c3d))
+![rainwatertrap.png](https://assets.leetcode.com/uploads/2018/10/22/rainwatertrap.png)
 
 [0,1,0,2,1,0,1,3,2,1,2,1]
 
